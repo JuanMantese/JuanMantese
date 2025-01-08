@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <table border="8">
     <tr>
-      <td><h1 align="center">Hi, I’m Juan Mantese!</h1> </td>
+      <td>
+        <h1 align="center">Hi, I’m Juan Mantese!</h1>
+        <h3 align="center"><em>Software Engineer</em></h3>
+      </td>
       <td><img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e472gs46bvjpdhn1ahc936xxzcsy5wsi5zli8e190e9&rid=giphy.gif&ct=s" width="100"/></td>
     </tr>
   </table>
@@ -10,23 +13,44 @@
     <a href="https://www.linkedin.com/in/juan-mantese-036045210/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQZtRJChxlXPzdMgPbHXltvdwCfcBHrznjZHFQRjXdJDCPCqQGPFkfsfXdGbgzWKBVzGKp">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/>    
+    </a>
     <div>
-      <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQZtRJChxlXPzdMgPbHXltvdwCfcBHrznjZHFQRjXdJDCPCqQGPFkfsfXdGbgzWKBVzGKp">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/>    
+      <a href="https://ny-lovers-juanmantese.netlify.app/profile/">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=0F09E6&logo=doc&logoColor=FFFFFF&label=" alt="Portfolio"/>    
       </a>
     </div>
   </div>
 </div>
 
 <div id="body">
-  <h4><em>Software Engineer at <a href=https://www.21.edu.ar target="_blank"/>Universidad Empresarial Siglo 21</a> </em></h4>
+  <p>
+    I’m a <em><b>Software Engineer</b></em> and <em><b>FrontEnd Developer</b></em> with a strong interest in Cloud Computing, the design and implementation of modern, responsive components, and driving technological innovation. 
+    I am excited to contribute to new projects, take on interesting challenges, and continue advancing in my professional career while collaborating with dynamic teams to achieve meaningful goals!!
+  </p>
 
-  <p>I’m a <em><b>FrontEnd Developer</b></em> interested in <em><b>Cloud computing area</b></em>. I am looking for new experiences and challenges, to be part of a collaborative team and to achieve professional and personal goals.</p>
+  <p>Continuous training seems fundamental to me to accompany technological growth </p>
 
-  <p>Continuous training seems fundamental to accompany technological growth </p>
+  <h3><em>Projects</em></h3>
+  <ul>
+    <li>
+      Designed an innovative solution to address transportation issues for over 800 daily students at Universidad Siglo 21 bygathering requirements, developing, and implementing a mobile application to manage carpooling within the university community, providing an intuitive and accessible user experience. <em><b><a href=https://drive.google.com/file/d/1df2WhziuW79InHY-r1Oebn8HTO-UlxcQ/view target="_blank"/>MVP DEMO</a></b></em>
+    </li>
+    <li>
+      Increased user engagement by 25% through continuous improvement of key features based on user feedback and usagepattern analysis. 
+    </li>
+    <li>
+      Led the business requirements gathering and functional design of the application, ensuring development aligned with theneeds of the student community. 
+    </li>
+    <li>
+      Developed a modern and responsive web application using HTML, CSS, JavaScript and React. This project showcasesdynamic components and responsive design principles, providing a seamless user experience. Hosted on Netlify. <em><b><a href=https://ny-lovers-juanmantese.netlify.app/ target="_blank"/>NyLovers</a></b></em>
+    </li>
+  </ul>
 
   <h3><em>Education</em></h3>
-  <p> 🧑‍🎓 Software Engineering student next to receive me at the <em><b>Universidad Empresarial Siglo 21</b></em> </p>
+  <h4><em>🧑‍🎓 Bachelor's Degree in Software Engineer at <a href=https://www.21.edu.ar target="_blank"/>Universidad Empresarial Siglo 21</a> (2025) </em></h4>
+  <h4><em>🧑‍🎓 Bachelor's Degree in Systems Anaylist at <a href=https://www.21.edu.ar target="_blank"/>Universidad Empresarial Siglo 21</a> (2024) </em></h4>
   <p> Up to 3rd year of Systems Engineering at <em><b><a href=https://www.utn.edu.ar/es/ target="_blank"/>Universidad Tecnologica Nacional</a></b></em> </p>
 
   <h3><em>Skills</em></h3>
